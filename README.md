@@ -1,3 +1,3 @@
-# advanced-movie-list-api-starter
+# My First Web Server
 
-Starter repository for the ACA advanced movie list api project
+A starter repo for the ACA Advanced `My First Web Server` project.
